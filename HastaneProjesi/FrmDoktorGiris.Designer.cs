@@ -52,6 +52,7 @@ namespace HastaneProjesi
             this.txtSifre.Name = "txtSifre";
             this.txtSifre.Size = new System.Drawing.Size(137, 22);
             this.txtSifre.TabIndex = 10;
+            this.txtSifre.Text = "3333";
             // 
             // mskTc
             // 
@@ -60,6 +61,7 @@ namespace HastaneProjesi
             this.mskTc.Name = "mskTc";
             this.mskTc.Size = new System.Drawing.Size(166, 22);
             this.mskTc.TabIndex = 9;
+            this.mskTc.Text = "33333333333";
             this.mskTc.ValidatingType = typeof(int);
             // 
             // label3
